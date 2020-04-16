@@ -1,0 +1,14 @@
+You are in your home folder. Please check its path typing "pwd".
+
+To list the files in this folder, use the command "ls" or "ls -l"
+for a pretty output.
+
+Each line produced by the "ls -l" command shows some info about the files.
+If the first character is "d", this file is actually a folder.
+
+In GNU/Linux, _everything_ is a file: a folder, a keyboard, a printer...
+
+You can change to a folder by typing "cd foldername".
+
+After doing that, type pwd again to check your current path and
+"ls -l" to list the files inside that folder aswell.
