@@ -1,0 +1,21 @@
+Write a program that reads an integer N as input and outputs if it is a prime number or not. For example:
+
+Input:
+4
+
+Output:
+Not a prime number
+
+Input:
+17
+
+Output:
+A prime number!
+
+Useful tips:
+A prime number is a positive integer that is divisible only by 1 and itself.
+
+The first prime numbers are 2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73
+
+In C, to verify if A is divisible by B, we write
+if (A % B == 0)
